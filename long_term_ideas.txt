@@ -1,0 +1,41 @@
+now:
+- special mushaf text: https://github.com/Accorpa/Arabic-Converter-From-and-To-Arabic-Presentation-Forms-B
+- change size
+- favorite lists
+- heart ayah
+- auto scroll
+- juz’/surah picker;
+- tafsir
+
+
+ 
+later:
+- pinch to zoom in/out: https://gist.github.com/sachithkadamba/813984#file-pinchzoomtableview-h
+- colored tajweed text: 
+- audio
+
+
+ BACKLOG:
+- more tafsir books
+- topics/favs cells
+- tashkil for surah names
+- bookmark: current RP
+- tabs background color
+- badges: actions.
+- buttons shadow
+- Analytics
+- fonts for urdu and other langs
+- which translation is best: link
+
+- Reciter:
+	= two reciters mode.
+	= revise mode
+	= repeat mode
+
+
+NOT IMPORTANT:
+- bookmarks: flip order (newest first)
+- New PP idea? bubble or tafsir?
+- better search
+- tafsir night mode 
+- Change locale message in new language.
